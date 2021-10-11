@@ -1,6 +1,6 @@
 ### Hi there 👋 Im sajanitha Deeptha
 
-WELCOME..
+WELCOME.
 
 - 👯 I’m looking to collaborate on Open source projects
 - 🎤 I love sharing knowledge with the community 
