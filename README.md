@@ -14,5 +14,5 @@
 
 
 - <img src="https://github-readme-stats.vercel.app/api?username=Sajanitha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=000000">
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sajanitha)](https://github.com/Sajanitha/github-readme-stats)
 
